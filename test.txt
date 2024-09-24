@@ -1,0 +1,11 @@
+factorial 
+
+5! = 5*4*3*2*1
+
+for (gaboleh make perulangan)
+
+
+"kasur rusak" -> Kasur rusak  (true)
+"gg gaming" -> gnimag gg" (false)
+
+0 1 1 2 3 5 8 ...
